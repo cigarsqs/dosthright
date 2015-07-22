@@ -1,4 +1,4 @@
 # dosthright
 do something right
 
-the program used baidu map to realize a map marker
+the program used baidu map api to realize a map marker
